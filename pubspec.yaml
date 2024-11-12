@@ -66,6 +66,7 @@ flutter:
   - lib/assets/Prak2.2.png
   - lib/assets/Prak3.1.png
   - lib/assets/Prak3.2.png
+  - lib/assets/Dasar_State_Management.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
