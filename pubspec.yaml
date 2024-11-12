@@ -62,6 +62,10 @@ flutter:
   assets:
   - lib/assets/hasilPrak1.png
   - lib/assets/soal4Prak1.png
+  - lib/assets/Prak2.1.png
+  - lib/assets/Prak2.2.png
+  - lib/assets/Prak3.1.png
+  - lib/assets/Prak3.2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
