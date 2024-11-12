@@ -36,9 +36,9 @@
 
 ### Tugas 4 :
 - Hasil :
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/hasilPrak1.png" alt="Hasil Prak 1" width='400'/>
-  </div>
+  </p>
 
 #
 
@@ -70,15 +70,15 @@ Anda buat!
 5. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke 
 spreadsheet yang telah disediakan!
 #
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/Prak2.1.png" alt="Prak 2.1" width='400'/>
-  </div>
+  </p>
 
 #
 
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/Prak2.2.png" alt="Prak 2.2" width='400'/>
-  </div>
+  </p>
 
 # 
 
@@ -87,22 +87,22 @@ spreadsheet yang telah disediakan!
 1. Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
 #
 2. Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/Dasar_State_Management.jpg" alt="Dasar_State_Management" width='400'/>
-  </div>
+  </p>
 #
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 #
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
 #
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/Prak3.1.png" alt="Prak 3.1" width='400'/>
-  </div>
+  </p>
 
 #
 
-  <div style="text-align: center;">
+  <p style="text-align: center;">
     <img src="lib/assets/Prak3.2.png" alt="Prak 3.2" width='400'/>
-  </div>
+  </p>
 
 #
