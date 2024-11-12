@@ -78,7 +78,7 @@
 #
 2. Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
   <p align="center">
-    <img src="lib/assets/Dasar_State_Management.jpg" alt="Dasar_State_Management" width='400'/>
+    <img src="lib/assets/Dasar_State_Management.jpg" alt="Dasar_State_Management" width='450'/>
   </p>
 #
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
