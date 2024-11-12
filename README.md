@@ -42,10 +42,11 @@
 #
 
 ### Praktikum 2 :
-
+- - ![Screenshot](lib/assets/Prak2.1.png)
+- - ![Screenshot](lib/assets/Prak2.2.png)
 #
 
 ### Praktikum 3 :
-
-
+- - ![Screenshot](lib/assets/Prak3.1.png)
+- - ![Screenshot](lib/assets/Prak3.2.png)
 #
