@@ -34,19 +34,75 @@
 
 
 
-- Tugas_4
-- - ![Screenshot](lib/assets/hasilPrak1.png)
-
+### Tugas 4 :
 - Hasil :
-- - ![Screenshot](lib/assets/hasilPrak1.png)
+  <div style="text-align: center;">
+    <img src="lib/assets/hasilPrak1.png" alt="Hasil Prak 1" width='400'/>
+  </div>
+
 #
 
 ### Praktikum 2 :
-- - ![Screenshot](lib/assets/Prak2.1.png)
-- - ![Screenshot](lib/assets/Prak2.2.png)
+#
+1. Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil 
+akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada 
+yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan 
+aplikasi tersebut dibuat.
+#
+2. Jelaskan mana yang dimaksud InheritedWidget pada langkah 1 tersebut! Mengapa 
+yang digunakan InheritedNotifier?
+
+- - A. InheritedWidget itu semacam widget yang digunakan untuk menyimpan dan membagikan state ke widget-widget di bawahnya. Jadi, di langkah 1, PlanProvider itu contoh InheritedWidget yang berfungsi untuk membagikan state Plan ke widget-widget lain di bawahnya.
+
+- - B. Sementara itu, InheritedNotifier adalah pengembangan dari InheritedWidget yang mendukung ValueNotifier, jadi pembaruan state bisa lebih efisien. Dengan InheritedNotifier,state cuma akan diperbarui kalau ValueNotifier-nya berubah, jadi gak perlu repot-repot merender ulang seluruh widget yang ada.
+
+#
+3. Jelaskan maksud dari method di langkah 3 pada praktikum tersebut! Mengapa 
+dilakukan demikian?
+
+- - A.completedCount: Menghitung jumlah tugas yang diselesaikan.
+
+- - B.completenessMessage: Menghasilkan pesan yang menunjukkan berapa banyak tugas yang telah diselesaikan dari total tugas.
+#
+4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah 
+Anda buat!
+#
+5. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke 
+spreadsheet yang telah disediakan!
+#
+  <div style="text-align: center;">
+    <img src="lib/assets/Prak2.1.png" alt="Prak 2.1" width='400'/>
+  </div>
+
 #
 
+  <div style="text-align: center;">
+    <img src="lib/assets/Prak2.2.png" alt="Prak 2.2" width='400'/>
+  </div>
+
+# 
+
 ### Praktikum 3 :
-- - ![Screenshot](lib/assets/Prak3.1.png)
-- - ![Screenshot](lib/assets/Prak3.2.png)
+#
+1. Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
+#
+2. Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
+  <div style="text-align: center;">
+    <img src="lib/assets/Dasar_State_Management.jpg" alt="Dasar_State_Management" width='400'/>
+  </div>
+#
+3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
+#
+4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
+#
+  <div style="text-align: center;">
+    <img src="lib/assets/Prak3.1.png" alt="Prak 3.1" width='400'/>
+  </div>
+
+#
+
+  <div style="text-align: center;">
+    <img src="lib/assets/Prak3.2.png" alt="Prak 3.2" width='400'/>
+  </div>
+
 #
