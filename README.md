@@ -80,7 +80,9 @@
   <p align="center">
     <img src="lib/assets/Dasar_State_Management.jpg" alt="Dasar_State_Management" width='450'/>
   </p>
+
 #
+
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 #
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
